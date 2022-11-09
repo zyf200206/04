@@ -11,10 +11,10 @@
 		}
 		
 		img{
-			width: 20xp;
-			height: 25px;
-			padding-top: 10px;
-			margin-right: 9px;
+			height: 40px;
+			width: 33xp;
+			padding-top: 0px;
+			margin-right: 0px;
 		}
 		
 		.one{
@@ -62,4 +62,3 @@
 		</div>
 	</body>
 </html>
-
